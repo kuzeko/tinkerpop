@@ -61,7 +61,7 @@ Sample Traversals
 The Gremlin language allows users to write highly expressive graph traversals and has a broad list of functions that
 cover a wide body of features. The `Reference Documentation <https://tinkerpop.apache.org/docs/current/reference/#graph-traversal-steps>`_
 describes these functions and other aspects of the TinkerPop ecosystem including some specifics on
-`Gremlin in Python <http://tinkerpop.apache.org/docs/current/reference/#gremlin-javascript>`_ itself. Most of the
+`Gremlin in Python <http://tinkerpop.apache.org/docs/current/reference/#gremlin-python>`_ itself. Most of the
 examples found in the documentation use Groovy language syntax in the
 `Gremlin Console <https://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/>`_.
 For the most part, these examples should generally translate to Python with
